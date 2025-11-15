@@ -1,0 +1,28 @@
+# core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pyyaml
+tqdm
+
+# ML / LLM
+torch
+transformers
+sentence-transformers
+accelerate
+
+# retrieval / vector DB
+faiss-cpu
+annoy
+langchain
+
+# optional: if you use OpenAI API
+openai
+
+# utilities
+datasets
+pytest
+psutil
+

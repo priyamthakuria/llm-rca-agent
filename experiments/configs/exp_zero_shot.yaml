@@ -1,0 +1,21 @@
+experiment_id: "E1_zero_shot"
+mode: "zero_shot"
+model:
+  backend: "openai"
+  model_name: "gpt-4"
+  temperature: 0.0
+  max_tokens: 512
+
+prompt:
+  template: "zero_shot"
+
+data:
+  test_set_path: "data/synthetic"
+  test_split_ratio: 0.2
+
+output:
+  results_dir: "experiments/results"
+  save_predictions: true
+
+seed: 42
+
