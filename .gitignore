@@ -70,4 +70,4 @@ models/
 *.cache
 
 # Documentation
-.documentaion/
+/documentation/
