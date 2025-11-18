@@ -102,3 +102,6 @@ The project compares:
 
 See LICENSE file for details.
 
+---
+
+*End of document.*
